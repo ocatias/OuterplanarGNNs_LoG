@@ -1,5 +1,5 @@
 # Outerplanar GNNs
-Code repository for our paper (Maximally Expressive GNNs for Outerplanar Graphs)[https://openreview.net/pdf?id=7vyGCFTajk] (LoG Extended Abstract, 2023).
+Code repository for our paper [Maximally Expressive GNNs for Outerplanar Graphs](https://openreview.net/forum?id=7vyGCFTajk) (LoG Extended Abstract, 2023).
 ## Setup
 Clone this repository and open the directory
 
