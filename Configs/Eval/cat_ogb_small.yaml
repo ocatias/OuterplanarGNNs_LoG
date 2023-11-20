@@ -1,0 +1,18 @@
+epochs: [100]
+min_lr: [0]
+virtual_node: [0]
+lr_schedule_patience: [101]
+tracking: [0]
+JK: ["concat"]
+
+cat: [1]
+lr_scheduler: ["None"]
+
+model: ["GIN"]
+batch_size: [128]
+emb_dim: [64,128]
+drop_out: [0, 0.5]
+num_layer: [2,3,4,5]
+pooling: ["mean", "sum"]
+lr:  [0.001, 0.0001]
+num_mlp_layers: [2]
